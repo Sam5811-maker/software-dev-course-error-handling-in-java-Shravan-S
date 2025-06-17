@@ -8,9 +8,9 @@ import java.util.List;
 public class Main {
     /**
      * Divide two numbers, throwing an unchecked ArithmeticException if the denominator is zero.
-     * @param a
-     * @param b
-     * @return The result of the division
+     * //@param a
+     * //@param b
+     * //@return The result of the division
      */
     private static double divide(double a, double b) {
         if (b == 0) {
